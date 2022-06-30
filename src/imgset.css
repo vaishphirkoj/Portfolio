@@ -1,0 +1,26 @@
+
+.Item-img {
+  height: auto;
+  max-height: 200px;
+  width: auto;
+  max-width: 350px;
+}
+
+.logoAnime{
+  cursor: pointer;
+  position:relative;
+  -webkit-animation:glide 2s ease-in-out alternate infinite;
+}
+
+@keyframes glide  {
+  from {
+     left:0px;
+     top:0px;
+  }
+  
+  to {
+     left:0px;
+     top: 30px;
+      }
+
+}

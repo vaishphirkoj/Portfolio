@@ -2,5 +2,3 @@
 <h1><a href="https://vaishnaviphirkojportfolio.netlify.app/">*Click Here*</a></h1>
 
 
-
-
